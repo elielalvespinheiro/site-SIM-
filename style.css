@@ -257,13 +257,13 @@ section .title::after {
     font-size: 75px;
     font-weight: 600;
     margin-left: -3px;
-    color:rgb(8, 8, 8);
+    color:#1E90FF;
 }
 
 .home .home-content .text-3 {
     font-size: 40px;
     margin: 5px 0;
-    color:rgb(8, 8, 8);
+    color:#1E90FF;
 }
 .home-content{
     text-align: center;
